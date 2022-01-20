@@ -1,7 +1,7 @@
 name: quakes-api
-home: https://github.com/Azure/kubernetes-hackfest/tree/master/labs/build-application
+home: https://github.com/amitsdixit/AKSChallenge/edit/main/charts/quakes-api/Chart.yaml
 version: 1.0
-description: api for GBB Kubernetes Hackfest
+description: API for Kubernetes
 maintainers: 
-  - name: chzbrgr71
-    email: brianisrunning@gmail.com
+  - name: 
+    email: 
