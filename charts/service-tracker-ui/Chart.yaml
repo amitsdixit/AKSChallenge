@@ -1,7 +1,7 @@
 name: web-ui
-home: https://github.com/Azure/kubernetes-hackfest/tree/master/labs/build-application
+home: https://github.com/amitsdixit/AKSChallenge/edit/main/charts/service-tracker-ui/Chart.yaml
 version: 1.0
-description: web app for GBB Kubernetes Hackfest
+description: Web App for Kubernetes
 maintainers: 
-  - name: chzbrgr71
-    email: brianisrunning@gmail.com
+  - name: 
+    email: 
