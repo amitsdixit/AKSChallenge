@@ -1,7 +1,7 @@
 name: data-api
 home: https://github.com/amitsdixit/AKSChallenge/edit/main/charts/data-api/Chart.yaml
 version: 1.0
-description: api for GBB Kubernetes Hackfest
+description: API For Kubernetes
 maintainers: 
   - name: 
     email: 
